@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=KonstantinModin&color=blue)
 ### In accordance with Chat GPT:
 
 In the realm of code, where errors hide,<br />
@@ -37,6 +36,7 @@ With every line you write, may brilliance flow,<br />
 And may your legacy in code forever grow.<br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KonstantinModin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=KonstantinModin&color=blue)
 <!--
 **KonstantinModin/KonstantinModin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
