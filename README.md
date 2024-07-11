@@ -35,7 +35,7 @@ May your code forever gleam.<br />
 With every line you write, may brilliance flow,<br />
 And may your legacy in code forever grow.<br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KonstantinModin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KonstantinModin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **KonstantinModin/KonstantinModin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
