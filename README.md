@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=KonstantinModin&color=blue)
 ### In accordance with Chat GPT:
 
 In the realm of code, where errors hide,<br />
