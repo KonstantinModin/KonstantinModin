@@ -1,5 +1,3 @@
-### In accordance with Chat GPT:
-
 In the realm of code, where errors hide,<br />
 There lives a programmer, skilled and wise.<br />
 Konstantin, they call him, a master of his craft,<br />
